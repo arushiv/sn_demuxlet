@@ -19,7 +19,7 @@ From: ubuntu:19.04
     apt-get -y install build-essential
 
     cd /
-    git clone https://github.com/statgen/demuxlet.git
+    git clone https://github.com/arushiv/demuxlet.git
     ls /
     apt-get -y install libtool
     cd /demuxlet
