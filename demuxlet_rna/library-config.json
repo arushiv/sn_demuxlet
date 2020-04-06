@@ -1,0 +1,8 @@
+{
+	"email": "<email>",
+	"libraries": ["499-NM-1","499-NM-2","499-NM-3","499-NM-4","499-NM-5","499-NM-6","499-NM-7","499-NM-8"],
+	"pruned_bam_dir":  "<output directory with pruned bams>",
+	"qc_dir": "<directory with extract_qc output>",
+	"sample_list": "<headerless txt file with sample ids, one per line, to retain from a large vcf >",
+	"umi_threshold": "1000",
+}
