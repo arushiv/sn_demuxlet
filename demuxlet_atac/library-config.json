@@ -1,0 +1,8 @@
+{
+	"email": "<email>",
+	"libraries": ["499-NM-1","499-NM-2","499-NM-3","499-NM-4","499-NM-5","499-NM-6","499-NM-7","499-NM-8"],
+	"pruned_bam_dir":  "< path to directory with pruned bams from the ATAC workflow >",
+	"qc_dir": "< path to the ataqv directory",
+	"sample_list": "< list of samples to subset vcf >",
+	"umi_threshold": "1000",
+}
